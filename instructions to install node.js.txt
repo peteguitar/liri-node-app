@@ -1,0 +1,5 @@
+to install node.js ..
+
+stat with npm init .. then npm install(and whatever the file name is) 
+
+then for example (npm install twitter --save)
